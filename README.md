@@ -9,7 +9,7 @@ Tài liệu và file bài tập thực hành mạng máy tính – Chương 8
 | **Thuchanh8.2_nhom4.docx** | Bài thực hành 8.2 – Nhóm 4 |
 | **thuchanh8.3_nhom4.docx** | Bài thực hành 8.3 – Nhóm 4 |
 | **thuchanh8.4_nhom4.pkt** | File mô phỏng Cisco Packet Tracer |
-| **thuchanh8.5_nhom4.docx** | Bài thực hành 8.5 – Nhóm 4 |
+| **thuchanh8.5_nhom4.docx** | Bài thực hành 8.5 – Nhóm 4 (chứa các đường link) |
 | **thuchanh8.bai01_practicalguide.docx** | bài tập 01 dựa file tài liệu hướng dẫn thực hành |
 
 ---
